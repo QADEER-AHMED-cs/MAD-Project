@@ -1,4 +1,4 @@
-# MAD-Project
+# University Event Management App
 # QADEER AHMED BS(CS)
 > Why do I have a folder named ".expo" in my project?
 
